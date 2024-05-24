@@ -1,4 +1,4 @@
-%no of clouds,climate,polution,pie chart poll,thermal image,ther graph
+%Main progam
 input1='C:/Users/ADMIN/Desktop/New folder (2)/original img';
 input2='C:/Users/ADMIN/Desktop/New folder (2)/filtered img';
 input3='C:/Users/ADMIN/Desktop/New folder (2)/no of cloud';
